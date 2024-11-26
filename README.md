@@ -1,8 +1,12 @@
 # 2024.11.26-interview
-This project is for recognizing the degree level that some of the degree expression in resumes indicates.
+This project is for recognizing the degree level that some of the degree expression in resumes indicates. Contains visualization of the degree level distribution in source data.
+
 Code: Degree recognition code.ipynb
+
 Source data: 数据工程师 试题 - 识别degree - 数据-工作表1.csv
+
 Result: Result.csv
+
 Visualization picture: Visualization.jpg
 
 # Software
